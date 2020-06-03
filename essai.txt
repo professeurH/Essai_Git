@@ -1,3 +1,5 @@
 Test Git
 
 Quelques lignes supplémentaires
+
+Encore quelques unes.
